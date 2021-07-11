@@ -28,7 +28,7 @@ git clone https://github.com/rozhanb/ISR.git
 
 2. **Make sure you are in compiler-in-python folder**
 ```
-cd compiler-in-python
+cd ISR
 ```
 
 3. Install all dependencies
