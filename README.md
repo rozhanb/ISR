@@ -23,7 +23,7 @@ For the **Lexer** and **Parser** we’ll be using _RPLY_, really similar to _PLY
 
 1. **Clone the project**
 ```
-git clone https://github.com/Pishgard/compiler-in-python.git
+git clone https://github.com/rozhanb/ISR.git
 ```
 
 2. **Make sure you are in compiler-in-python folder**
